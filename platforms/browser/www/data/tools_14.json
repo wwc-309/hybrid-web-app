@@ -1,0 +1,330 @@
+[{
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+        "id": 1,
+        "text": "If I experience any thoughts or have plans to hurt myself I will",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Remove my access to any weapons/pills or anything else that I could use to hurt myself",
+          "Call my doctor and ask for an urgent appointment",
+          "If these thoughts or intentions are very strong I will attend the nearest emergency department"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Things I can do that can help me through this time",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "I want to see my children grow up",
+          "I don't want to hurt my family or friends by leaving them",
+          "There are things I would like to do in the future",
+          "I have responsibilities to my family and friends",
+          "People will see me as weak",
+          "There are always other options to suicide",
+          "It is against what my religion teaches",
+          "Life is precious",
+          "It would badly affect my family and friends"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Other things I can do that can help me through this time",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Do things to distract my thoughts and that I have found nice to do in the past:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Spend time with people I love",
+          "Doing things which I find relaxing and calming",
+          "Listen to gentle music"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Other:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 6,
+        "text": "Use the thinking and problem solving tools:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Challenge negative thinking",
+          "Use problem solving steps so difficulties do not seem so overwhelming"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Other:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "I can get support at this time from:",
+    "questions": [{
+        "id": 1,
+        "text": "Friend:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 2,
+        "text": "Family:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 3,
+        "text": "Community or religious leader:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Service providers:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 3,
+    "sectionTitle": "What I would like my support people to do:",
+    "questions": [{
+        "id": 1,
+        "text": "Things that you would like your service provider (doctor/therapist) to do:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "See me at short notice for an urgent appointment",
+          "Review and make necessary changes to my medications",
+          "Arrange admission to hospital if needed",
+          "Help me to work on changing my suicidal thoughts",
+          "See me more frequently until I am feeling better"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Other:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 3,
+        "text": "Things that people (friends and family) in your support network can do:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Sit with me until I feel safe",
+          "Listen to me and tell me things that could help comfort me",
+          "Do not blame, criticize or minimize my feelings or concerns",
+          "Help me to do some pleasant things to distract me",
+          "Help me with some of the household tasks and other responsibilities that are too difficult for me at this time (childcare, dishes, vacuum, feeding pets, grocery shopping, washing)"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Help me to organise my appointment with a service provider by:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Making the call on my behalf",
+          "Driving me to the appointment",
+          "Coming in with me to the consultation",
+          "Taking me to the pharmacy",
+          "Drive me to hospital and stay with me while I am admitted",
+          "Agree to take my weapons/pills or anything else they think may be potentially lethal until these feelings pass"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Other things that could help me at this time:",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 4,
+    "sectionTitle": "When you have completed your Suicide Risk Prevention Contract print it off and sign it and ask all those involved in the plan to sign it too",
+    "questions": [{
+        "id": 1,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 2,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 3,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 5,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 6,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 7,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 8,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 9,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 10,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      }
+    ]
+  }
+]

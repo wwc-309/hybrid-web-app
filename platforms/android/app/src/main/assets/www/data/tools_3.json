@@ -1,0 +1,187 @@
+[{
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Things to do on your own",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Write a letter to a friend",
+        "Go for a walk, or bushwalk",
+        "Write a short story or poem",
+        "Write in your diary",
+        "Play a computer game",
+        "Learn or practice a musical instrument",
+        "Paint, draw, do some pottery",
+        "Sing",
+        "Knit",
+        "Do some woodwork",
+        "Do a jigsaw puzzle",
+        "Read a good novel",
+        "Read an interesting non fiction book",
+        "Read your favourite magazine",
+        "Read the newspaper",
+        "Study a language",
+        "Buy or make a present for someone",
+        "Look through your favourite photo album",
+        "List things you have enjoyed in the past",
+        "Play a card game, eg patience",
+        "Listen to music",
+        "Watch television"
+      ]
+    }]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Things to do around the house",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Do some gardening",
+        "Do some handiwork",
+        "Rearrange the furniture",
+        "Have a spring clean",
+        "Do some sewing",
+        "Play with your pets",
+        "Sit in the sun",
+        "Make a cake"
+      ]
+    }]
+  },
+  {
+    "section": 3,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Social activities",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Phone a friend",
+        "Visit a friend or neighbour",
+        "Prepare a special meal",
+        "Give someone else a facial/massage",
+        "See a play, ballet or theatre",
+        "See your favourite band",
+        "Play with your children",
+        "Hug your favourite person",
+        "Invite friends over for a video/DVD/TV",
+        "Hold a Trivial Pursuit, Pictionary, or Charade night",
+        "Ask yourself over to a friend's house",
+        "Go out for coffee"
+      ]
+    }]
+  },
+  {
+    "section": 4,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Active things to do",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Go for a walk or bushwalk",
+        "Go jogging",
+        "Go roller skating",
+        "Hire a bike",
+        "Hire a tandem bike",
+        "Go horse riding",
+        "Do some aerobics",
+        "Do some weight lifting",
+        "Have a game of tennis, or squash",
+        "Kick a ball around the oval",
+        "Run up and down the stairs for a few minutes",
+        "Join an orienteering club",
+        "Ride a motor bike",
+        "Go to the gym",
+        "Go for a surf",
+        "Go swimming"
+      ]
+    }]
+  },
+  {
+    "section": 5,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Things to do away from home",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Walk along the beach",
+        "Go to a movie",
+        "Visit the zoo",
+        "Go to local craft market",
+        "Go shopping",
+        "Go to the library",
+        "Visit a bookshop",
+        "Visit an art gallery",
+        "Visit a museum",
+        "Go to a poetry reading",
+        "Watch a game of football",
+        "Visit Open Gardens",
+        "Look at challenging works of art",
+        "Wandering through book shop, hardware shop, nursery",
+        "Go to a sporting event",
+        "Go and watch a live band"
+      ]
+    }]
+  },
+  {
+    "section": 6,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Things to do to pamper yourself",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Have (or give yourself) a facial",
+        "Try different perfumes/colognes in a department store",
+        "Have a bubble bath",
+        "Have your hair cut/coloured",
+        "Eat your favourite food",
+        "Buy yourself a bunch of flowers",
+        "Buy yourself a special gift such as a CD or DVD"
+      ]
+    }]
+  },
+  {
+    "section": 7,
+    "sectionTitle": "",
+    "questions": [{
+      "id": 1,
+      "text": "Other",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }]
+  }
+]

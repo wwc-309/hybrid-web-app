@@ -1,0 +1,95 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Thoughts that are grandiose",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "These thoughts suggest that you have talents or abilities to an extent that is greatly inflated. Such as, you might believe that your team won, only because you were there to cheer them on.<br>For example \"I am going to be a world renowned writer\"",
+      "tip": "Ask yourself, where is the evidence that I am able to do this? Have I achieved this before? Are there steps in this process that I haven't thought of?"
+    },
+    {
+      "id": 2,
+      "text": "Negative mental filter",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This mental filter, \"strains\" out any negative elements and means that your focus in only on the possible positive aspects. The possibilities of negative outcomes, difficulties or risks are disregarded. These thoughts strongly emphasise \"all will be great\".<br>For example You read about an investment opportunity by a company that you have never heard of that is guaranteeing huge returns, and you think this would be a good investment.",
+      "tip": "Try and look for the more negative elements or outcomes that may have been filtered out. Such as, is this too good to be true?, what is this company's track record. Think about getting independent financial advice before making financial commitments and using the 48 hour rule of waiting before taking action."
+    },
+    {
+      "id": 3,
+      "text": "Ignoring or discounting consequences",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "These type of thinking ignores or disregards any negative details.<br>For example: Thoughts which encourage spending lots of money, such as a big spending spree, thinking these are all things you need, or would be important to have, such as that new car, boat or horse truck. The consequence of this is to run up a huge credit card bill, or use up all your savings.",
+      "tip": "Try to think beyond the good outcomes, to what could be the negative consequences of carrying through with this thought. Again, using the 48 hour rule of waiting before taking action can help stop acting on these type of impulsive thoughts."
+    },
+    {
+      "id": 4,
+      "text": "'Now' Thoughts ",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "These thoughts encourage impulsive actions. They make it difficult to delay plans or actions, with disregard to consequences. Focus is on immediate gratification or the pursuit of goals.<br>For example: Your thoughts may tell you that you need to pursue your creative talents by going to live in an artists community. This could involve you suddenly leaving a job, family and friends.",
+      "tip": "Ask yourself \"why do I need to do this now?\" \"What if you left acting on this idea for a few days, what could you do in the meantime?\" \"What could the negative outcomes be in terms of job, family and friends\"? "
+    },
+    {
+      "id": 5,
+      "text": "Prickly thoughts ",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "These thoughts are the result of feeling irritated and annoyed with others, particularly with those who seem to be thwarting your plans, or do not share enthusiasm for your ideas. At the extreme these thoughts can become paranoid, thinking that others are deliberately plotting against you. Or you might find yourself unfairly blaming others. These kind of thoughts can lead to behaviours which can be very damaging to relationships.<br>For example You have this idea to invest all of your and your partners savings into a building subdivision. Your partner expresses concerns that this is a risky investment, and your response \"You don't understand these sorts of things, you are not as clever as I am, you should be pleased that I can organise things so we have the possibility to pursue such a great opportunity\".",
+      "tip": "Take time to cool down from any irritable thoughts, this might mean going to another room, or out into the garden. Try to keep things in perspective, is it so important in comparison to say your relationship."
+    },
+    {
+      "id": 6,
+      "text": "Mind reading",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This refers to the assumption that you know what other people are thinking. This type of thinking can lead to embarrassment and cause distress in relationships.<br>For example.. A work colleague smiles at you, which you interpret as a sure sign they are physically attracted to you, when there is no real basis for this.",
+      "tip": "Ask yourself what could be some alternative explanations? \"They smiled at me to be polite, or friendly, which doesn't mean they are attracted to me\"."
+    },
+    {
+      "id": 7,
+      "text": "Unable to see the details ",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "Inflated optimism and a rush of ideas for projects and ideas exclude the details that are required for them to be successful.<br>For example: \"Buying a number of cars to restore without thinking through the tools, space and time required to be able to do this\".",
+      "tip": "Ask yourself \"are there any disadvantages to doing this\", \"What would your most trusted friend say about this project?\""
+    },
+    {
+      "id": 8,
+      "text": "Overgeneralisation",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of thinking proposes that a global positive conclusion will always occur. These thoughts are often based on a good outcome or experience in one area that is blown out to much greater proportions and be for \"always\".<br>For example, \"I did well in getting this contract for the company, I could run the place\".",
+      "tip": "Ask yourself \"where is the evidence that this is so?\""
+    },
+    {
+      "id": 9,
+      "text": "Emotional Reasoning (making feelings fact) ",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of thinking involves drawing a positive conclusion based on feelings. While feelings are important, they are not a statement of fact.<br>For example \"I feel great, and have a great feeling about this project, it will all be wonderful\"",
+      "tip": "Ask yourself, \"where is the evidence that this will be so?\", \"Are there any disadvantages?\", \"What would happen if I delayed my plans, to ensure I am making the right decision\"."
+    },
+    {
+      "id": 10,
+      "text": "Thoughts that jump from idea to idea ",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "With rapidly flowing thoughts and ideas, these thoughts encouraging the taking on of multiple projects, or moving from goal to goal without completing anything. Taking on more things can you could practically achieve causes great distress and difficulties in relationships, by the unfinished tasks, financial difficulties and disappointments.<br>For example: \"After starting to extend the garage, the idea of adding to the outside paving area was pursued, but this was abandoned to build a hen house in the yard\"",
+      "tip": "Be aware of what other projects you have on the go, and holding off starting anything new until they are completed. Asking yourself, \"why do I need to do it now?\", \"what would happen if I left it until next week?\""
+    }
+  ]
+}]

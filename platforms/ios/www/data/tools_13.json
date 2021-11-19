@@ -1,0 +1,521 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Doctor's Name",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 2,
+      "text": "Doctor's Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 3,
+      "text": "Doctor's Emergency Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 4,
+      "text": "Other Clinician:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 5,
+      "text": "Other Clinician Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 6,
+      "text": "Other Clinician Emergency Phone:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 7,
+      "text": "Hospital Name:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 8,
+      "text": "Hospital Phone:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 9,
+      "text": "Medicare Card Number:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 10,
+      "text": "Pension Card Number:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 11,
+      "text": "Social Security Card Number:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 12,
+      "text": "Support person 1:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 13,
+      "text": "Phone:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 14,
+      "text": "Support Person 2",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 15,
+      "text": "Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 16,
+      "text": "Support Person 3",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 17,
+      "text": "Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 18,
+      "text": "Alternative support person",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "i.e. your back-up person when your other support people are away",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 19,
+      "text": "Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 20,
+      "text": "The warning signs for me that I am becoming unwell (depressed) are",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "Please list them",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 21,
+      "text": "When these warning signs occur I will",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Notify my doctor/service provider of my symptoms"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Work with my doctor/service provider by",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Having regular monitoring appointments to keep a check on things and discuss treatment options",
+        "Follow the treatment plan and give any changes in medication a chance to work and discuss any difficulties with my doctor",
+        "Discuss strategies associated with symptoms such as sleep problems, and changes to diet and appetite",
+        "If suicidal thoughts occur activate my Suicide Risk Prevention Contract"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "Make contact with people in my support system that have agreed to help",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 24,
+      "text": "Name",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 25,
+      "text": "Phone",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 26,
+      "text": "What things would you find useful from them:",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Just sit and be with me",
+        "Give me space - but be around so I am not alone",
+        "Call me regularly",
+        "Listen to me",
+        "Talk to me in a supportive way",
+        "Avoid being critical of me",
+        "Call my doctor for me",
+        "Take me to my appointment",
+        "Come on walks/exercise with me",
+        "Help me to take care of responsibilities that have become a burden (add detail below)",
+        "Distract me by encouraging me and helping me to do enjoyable activities",
+        "Help me not to have drugs/alcohol",
+        "Take me to hospital if necessary",
+        "Help me put my Suicide Risk Prevention Contract into operation"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 28,
+      "text": "In relation to myself I will:",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Continue with my daily activities and routine as much as possible",
+        "Reduce any disturbance to my sleep/wake cycle",
+        "Monitor my mood closely",
+        "If I am experiencing additional health problems, such as cold/flu I will get medical care and treatment for this also",
+        "Be mindful that taking of drugs or alcohol can increase the depression and hinder my treatment"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 30,
+      "text": "Strategies I will use at this time include:",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Do things I have found to be enjoyable",
+        "Do things that will give me a sense of achievement however small",
+        "Use a mindful approach to think about things",
+        "Identify unhelpful thoughts that I have at this time and challenge those and reframe them to be more constructive to my well being",
+        "Be encouraging with myself and avoid any self talk which is critical and blaming"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 32,
+      "text": "Things I will NOT do when experiencing early signs of depression:",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "I will NOT stay in bed all day",
+        "I will NOT use drugs or alcohol to help me cope",
+        "I will NOT keep my feelings to myself",
+        "I will NOT avoid seeing my doctor",
+        "I will NOT stop people in my network from helping as agreed"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "My plan to deal with triggers of depression:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 34,
+      "text": "I am aware that the following can be a trigger of illness for me:",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 35,
+      "text": "To deal with these stressors/triggers I will:",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Monitor my mood closely at this time",
+        "Seek assistance from doctor or other service provider to help manage the trigger",
+        "Keep my sleep-wake cycle in balance",
+        "Use strategies which I have found that help reduce or manage stress such as relaxation, exercise",
+        "Use problem solving strategies to try and resolve any difficulties",
+        "Set myself goals which could make my life less stressful"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 37,
+      "text": "Signature",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "When you have completed your Plan print it off and sign it and ask all those involved in the plan to sign it too",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 38,
+      "text": "Date",
+      "type": "date",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 39,
+      "text": "Signature",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 40,
+      "text": "Date",
+      "type": "date",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 41,
+      "text": "Signature",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 42,
+      "text": "Date",
+      "type": "date",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 43,
+      "text": "Signature",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 44,
+      "text": "Date",
+      "type": "date",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": ""
+    }
+  ]
+}]

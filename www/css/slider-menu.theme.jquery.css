@@ -1,0 +1,134 @@
+/**
+ * jQuery Menu Slider Theme Styles
+ *
+ * @version 1.0.0
+ */
+.slider-menu {
+  /*text-transform: uppercase;*/
+  font-size: 1rem;
+  background-color: #fff;
+  font-weight: 400;
+}
+
+.slider-menu__back {
+  background-color: rgba(195, 195, 195, 0.3);
+  color: #363636;
+  transition: color .2s;
+  font-weight: 300;
+}
+
+.slider-menu__back .slider-menu__text {
+  display: block;
+  width: 16px;
+  height: 16px;
+}
+
+.slider-menu__back:hover .slider-menu__text {
+  background-color: #fff;
+}
+.slider-menu__span{
+  font-size: 1.125rem;
+  font-weight: 500;
+  font-style: italic;
+  padding-left: .5rem;
+}
+.slider-menu__desc {
+  display: inline-block;
+  font-size: .8em;
+  text-transform: none;
+  color: #363636;
+  transition: color .2s;
+  margin-left: 5px;
+  vertical-align: middle;
+  font-weight: normal;
+}
+
+.slider-menu__desc:before {
+  content: '- ';
+}
+
+.slider-menu__item {
+  border-bottom: 1px solid #eee;
+}
+
+.slider-menu__item:last-child {
+  border-bottom: 0;
+}
+
+.slider-menu__link {
+  display: block;
+  text-decoration: none;
+  color: #252525;
+  padding: .25rem;
+  font-size: medium;
+  transition: all .2s;
+}
+
+.slider-menu__link:hover {
+  background-color: #363636;
+  color: #fff;
+}
+
+.slider-menu__link:hover .slider-menu__desc {
+  color: #fff;
+}
+
+.slider-menu__link:active {
+  background-color: #252525;
+  color: #fff;
+}
+
+.slider-menu__link--active-link {
+  background-color: #363636;
+  color: #fff;
+}
+
+.slider-menu__link--active-link .slider-menu__desc {
+  color: #fff;
+}
+
+.slider-menu--has-children > .slider-menu__link:before {
+  float: right;
+  content: "\203A";
+  display: block;
+  width: 2rem;
+  height: 20px;
+  margin-top: 0px;
+  transition: transform .2s, margin-top .2s;
+  font-size: x-large;
+  line-height: .5;
+}
+
+.slider-menu--has-children > .slider-menu__link:hover:before {
+  background-color: #363636;
+}
+
+.slider-menu__item--vertical .slider-menu__menu {
+  background-color: rgba(0,165,43, .05);
+}
+
+.slider-menu__item--vertical .slider-menu__item {
+  border-color: rgba(0,165,43, .1);
+}
+
+.slider-menu__item--vertical .slider-menu__menu .slider-menu__link {
+  color: #363636;
+  text-transform: none;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.slider-menu__item--vertical .slider-menu__menu .slider-menu__link:hover {
+  color: #fff;
+}
+
+.slider-menu__item--vertical.slider-menu--has-children > .slider-menu__link:before {
+  /* transform: rotate(90deg); */
+  margin-top: 6px;
+}
+
+.slider-menu__item--vertical.slider-menu--has-children > .slider-menu__link.slider-menu__link--active-link:before {
+  background-color: #fff;
+  /* transform: rotate(270deg); */
+  margin-top: 4px;
+}

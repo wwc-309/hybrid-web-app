@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Bipolar App",
+  "short_name": "Bipolar App",
+  "version": "au.net.moodswings.bipolarApp",
+  "description": "Bipolar and MoodSwings Quiz Module",
+  "author": "Group 26 - SIT302 - T3-2017",
+  "icons": [
+    {
+      "src": "res/icon/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}

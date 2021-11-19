@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <!--<meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <title>MoodSwings | My Interactions</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' http://introtoapps.com data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+
+    <!-- CSS sources -->
+    <link rel="stylesheet" href="css/font_awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bulma.css">
+    <link rel="stylesheet" href="css/jquery-confirm.min.css">
+    <link rel="stylesheet" href="css/index.css">
+
+    <!-- javascript sources -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <!-- Hashing and Encryption Library -->
+    <script type="text/javascript" src="js/crypto-js.min.js"></script>
+    <!-- Alert and Confirm menu library -->
+    <script type="text/javascript" src="js/jquery-confirm.min.js"></script>
+    <!-- Slider menu library -->
+    <script type="text/javascript" src="js/slider-menu.jquery.js"></script>
+    <!-- Chart drawing library -->
+    <script type="text/javascript" src="js/Chart.min.js"></script>
+    <!-- PDF file creation library -->
+    <script type="text/javascript" src="js/jspdf.min.js"></script>
+    <!-- User login/Registration/Password Reset routines -->
+    <script type="text/javascript" src="js/account.js"></script>
+    <!-- Data save and retreive to and from Datastore -->
+    <script type="text/javascript" src="js/networking.js"></script>
+    <!-- UI Builder for login/registration/password reset-->
+    <script type="text/javascript" src="js/login.ui.js"></script>
+    <!-- UI Builder for Navigation and Tree menu builder -->
+    <script type="text/javascript" src="js/menu.ui.js"></script>
+    <!-- UI builder for quiz questions/history/pre-fill/charts -->
+    <script type="text/javascript" src="js/quiz.ui.js"></script>
+    <!-- Utility routines -->
+    <script type="text/javascript" src="js/utils.js"></script>
+    <!-- Main entry point script file -->
+    <script type="text/javascript" src="js/index.js"></script>
+    <!-- Cordova specific library -->
+    <script type="text/javascript" src="cordova.js"></script>
+  </head>
+  <body>
+    <div class="modal" id="entry"  style="z-index:20000">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <section class="modal-card-body has-text-centered">
+          <div class="box">
+            <figure class="avatar">
+              <img src="img/avatar.png">
+            </figure>
+            <div class="form" id="loginBox" style="z-index:30000">
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <section class="hero is-fullheight">
+        <!-- Hero head: will stick at the top -->
+        <div class="hero-head">
+          <header class="navbar is-dark" role="navigation"  aria-label="main navigation">
+            <div class="container">
+              <div class="navbar-brand">
+                  <a class="navbar-item">
+                    <img src="img/logo.png" alt="Mood swings logo" width="112" height="28">
+                  </a>
+                  <a class="navbar-item" id="home-button">
+                      <i class="fa fa-home fa-lg fa-inverse">&nbsp;Dashboard</i>
+                  </a>
+                  <div class="navbar-burger burger" data-target="mainMenu">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  </div>
+              </div>
+            </div>
+          </header>
+        </div>
+        <!-- Hero content: will be in the middle -->
+        <div class="hero-body">
+
+          <div id="filler"></div>
+          <div id="printer"></div>
+          <div class="container">
+            <h1 class="title is-5" id="page-title">Dashboard</h1>
+            <hr class="divider"/>
+            <div class="content" id="page-content">Welcome to MoodSwings!</div>
+            <hr class="divider"/>
+            <div class="box  is-hidden" id="patient-selector">
+              <div class="field is-horizontal">
+                <label class="label">Select a Patient:</label>
+                <div class="control is-expanded">
+                  <div class="select" style="width:100%">
+                    <!-- Dropdown dynamically created -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Spinner Credit: http://tobiasahlin.com/spinkit/ -->
+            <div class="spinner">
+              <div class="rect1"></div>
+              <div class="rect2"></div>
+              <div class="rect3"></div>
+              <div class="rect4"></div>
+              <div class="rect5"></div>
+            </div>
+            <div class="container" id="quiz-container">
+                <!-- Quiz related items. dynamically created -->
+            </div>
+          </div>
+        </div>
+        <!-- Hero footer: will stick at the bottom -->
+        <div class="hero-foot">
+          <div class="columns is-gapless">
+            <p class="column is-one-third"><a class="button is-inverted is-outlined is-fullwidth is-link" href="#">Terms &amp; Conditions</a></p>
+            <p class="column"><a class="button is-inverted is-outlined is-fullwidth is-link" href="#">Privacy Statement</a></p>
+            <p class="column"><a class="button is-inverted is-outlined is-fullwidth is-link" href="#">Contact Us</a></p>
+          </div>
+          <p class="is-size-6 has-text-centered"><b>Phone:</b>+61 0 0000 0000 or +1 000 000 0000</p>
+        </div>
+      </section>
+
+  </body>
+</html>

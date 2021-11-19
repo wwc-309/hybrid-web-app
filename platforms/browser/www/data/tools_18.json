@@ -1,0 +1,86 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Date",
+      "type": "date",
+      "validation": "required",
+      "help": "",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 2,
+      "text": "Mood",
+      "type": "range",
+      "validation": "required",
+      "help": "Mood scores range from -5 (very low mood) to +5 (very high mood).",
+      "info": "",
+      "tip": "",
+      "min": -5,
+      "max": 5,
+      "increment": 1
+    },
+    {
+      "id": 3,
+      "text": "Irritability",
+      "type": "range",
+      "validation": "required",
+      "help": "Irritability scores range from 0 (not at all irritated to 5 (very irritated).",
+      "info": "",
+      "tip": "",
+      "min": 0,
+      "max": 5,
+      "increment": 1
+    },
+    {
+      "id": 4,
+      "text": "Anxiety",
+      "type": "range",
+      "validation": "required",
+      "help": "Anxiety scores range from 0 (not at all anxious) to 5 (very anxious).",
+      "info": "",
+      "tip": "",
+      "min": 0,
+      "max": 5,
+      "increment": 1
+    },
+    {
+      "id": 5,
+      "text": "Sleep Hours",
+      "type": "range",
+      "validation": "",
+      "help": "Please use the slider to enter the amount of sleep hours (0-24).",
+      "info": "",
+      "tip": "",
+      "min": 0,
+      "max": 24,
+      "increment": 1
+    },
+    {
+      "id": 6,
+      "text": "Did I take my medication as prescribed?",
+      "type": "radio",
+      "validation": "required",
+      "help": "(Select Y/N)",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Journal Entry",
+      "type": "textarea",
+      "validation": "",
+      "help": "Add a comment to help put a reference to your scores. E.g. \"Started my new job today!\"",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }
+  ]
+}]

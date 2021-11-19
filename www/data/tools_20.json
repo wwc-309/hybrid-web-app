@@ -1,0 +1,37 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Date",
+      "type": "date",
+      "validation": "required",
+      "help": "Month/Day/Year",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 2,
+      "text": "Mood",
+      "type": "range",
+      "validation": "required",
+      "help": "Mood scores ranged from -5 (very low mood) to +5 (very high mood)",
+      "info": "",
+      "tip": "",
+      "min": -5,
+      "max": 5,
+      "increment": 1
+    },
+    {
+      "id": 3,
+      "text": "Comment",
+      "type": "textarea",
+      "validation": "required",
+      "help": "Add a comment to help put a reference to your scores. E.g. \"Started my new job today!\"",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }
+  ]
+}]

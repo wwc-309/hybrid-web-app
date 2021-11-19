@@ -1,0 +1,518 @@
+[
+  {
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+        "id": 1,
+        "text": "Doctor's Name",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 2,
+        "text": "Doctor's Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 3,
+        "text": "Doctor's Emergency Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Other clinician",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 5,
+        "text": "Other Clinician Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 6,
+        "text": "Other Clinician Emergency Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 7,
+        "text": "Hospital Name",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 8,
+        "text": "Hospital Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 9,
+        "text": "Medicare Card Number",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 10,
+        "text": "Pension Card Number",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 11,
+        "text": "Social Security Card Number",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 12,
+        "text": "Support Person 1",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 13,
+        "text": "Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 14,
+        "text": "Support Person 2",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 15,
+        "text": "Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 16,
+        "text": "Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 17,
+        "text": "Support Person 3",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 18,
+        "text": "Alternative support person (i.e your back up person when your other support people are away)",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 19,
+        "text": "Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 20,
+        "text": "The warning signs for me that I am becoming unwell (manic) are (list):",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 21,
+        "text": "When these warning signs occur I will",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Notify my doctor/service provider of my symptoms"
+        ]
+      },
+      {
+        "id": 22,
+        "text": "Work with my doctor/service provider by:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Having regular monitoring appointments to keep a check on things and discuss treatment options",
+          "Follow the treatment plan and give any changes in medication a chance to work and discuss any difficulties with my doctor",
+          "Discuss strategies associated with symptoms such as sleep problems, and changes to diet and appetite",
+          "If suicidal thought occur activate my Suicide Risk Prevention Contract"
+        ]
+      },
+      {
+        "id": 23,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 24,
+        "text": "Name",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 25,
+        "text": "Phone",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 26,
+        "text": "What things would you find useful from them",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Help me to reduce any socialising such as going to parties",
+          "Help me not to take on additional work or projects or other new things at this time",
+          "Help me to keep me away from places which could be harmful for me such as casinos and bars",
+          "Temporarily look after my Credit Card, EFTPOS card, car keys",
+          "Call my doctors for me"
+        ]
+      },
+      {
+        "id": 27,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 28,
+        "text": "In relation to myself I will",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Reduce any disturbance to my sleep/wake cycle",
+          "Reduce any exposure to stimulating people or places",
+          "Monitor my mood closely",
+          "If I am experiencing additional health problems, such as cold/flu I will get medical care and treatment for this also",
+          "Be mindful that taking of drugs or alcohol can hinder my treatment"
+        ]
+      },
+      {
+        "id": 29,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 30,
+        "text": "Strategies I will use at this time include",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Reduce my social activity",
+          "Mood monitoring",
+          "Avoid places or situations that are stimulating and hype me up",
+          "Keep things around me quiet and unstimulating",
+          "Write down any new ideas or plans for later - but not pursue them now"
+        ]
+      },
+      {
+        "id": 31,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 32,
+        "text": "Things I will NOT do when experiencing early signs of mania",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "I will NOT pursue stimulating and pleasurable activities",
+          "I will NOT take any new projects, plans or ideas",
+          "I will NOT use drugs or alcohol",
+          "I will NOT avoid seeing my doctor",
+          "I will NOT stop people in my network from helping as agreed"
+        ]
+      },
+      {
+        "id": 33,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 34,
+        "text": "My plan to deal with triggers of mania",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 35,
+        "text": "To deal with these stressors/triggers I will:",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Monitor my mood closely at this time",
+          "Seek assistance from doctor or other service provider to help manage the trigger",
+          "Keep my sleep/wake cycle in balance",
+          "Use strategies which I have found that help me to reduce stress and disruptions to my usual routine, particularly my sleep/wake cycle",
+          "Use problem solving strategies to try and resolve any difficulties, such as deadlines which reduce sleep"
+        ]
+      },
+      {
+        "id": 36,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "When you have completed your Plan print it off and sign it and ask all those involved in the plan to sign it too",
+    "questions": [{
+        "id": 1,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 2,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 3,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 5,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 6,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 7,
+        "text": "Signature",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 8,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      }
+    ]
+  }
+]

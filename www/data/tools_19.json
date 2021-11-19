@@ -1,0 +1,159 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Date",
+      "type": "date",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": ""
+    },
+    {
+      "id": 2,
+      "text": "Medication Type",
+      "type": "selection",
+      "validation": "",
+      "help": "",
+      "info": "Please fill in your�medication profile�before selecting a medication type.",
+      "tip": "",
+      "options": [
+        "Lorazepam",
+        "Other"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "If other",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "If you selected \"other\" above, add the medication name here.",
+      "tip": "",
+      "min": "",
+      "max": "15"
+    },
+    {
+      "id": 4,
+      "text": "Dose Prescribed",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 5,
+      "text": "Time Normally Taken",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Breakfast",
+        "Mid morning",
+        "Lunch",
+        "Mid afternoon",
+        "Tea",
+        "Before bed"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Good Effects",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Mood is more stable",
+        "Less agitated",
+        "Less irritable",
+        "Feel calmer",
+        "Less anxious",
+        "Feel more settled",
+        "Sleep better",
+        "Want to use less drugs",
+        "Want to use less alcohol",
+        "Want to smoke les",
+        "Concentration is better",
+        "More in control",
+        "Energy level more balanced",
+        "Able to complete what I start",
+        "Fighting/aruging less with others",
+        "Able to perform better at work",
+        "Able to think more clearly",
+        "Speech more even",
+        "Able to keep appointments and social engagements"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Other Good Effects",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 8,
+      "text": "The improvement is",
+      "type": "selection",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Midly better",
+        "Moderately better",
+        "Greatly better"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Any possible side effects noted",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Increases thirst",
+        "Gastro-intestinal changes eg diarrhoea, indigestion, nausea"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Other Side Effects",
+      "type": "textbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "min": "",
+      "max": ""
+    },
+    {
+      "id": 11,
+      "text": "These things are",
+      "type": "selection",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Only mild",
+        "Mildy troublesome",
+        "Severe"
+      ]
+    }
+  ]
+}]

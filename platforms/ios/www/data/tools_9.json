@@ -1,0 +1,106 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "All or nothing thinking/perfectionism",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This applies to thinking about things at their extremes. Things are either 'good' and perfect or totally 'bad' and inadequate, there is no middle of the road in this type of thinking. <br>Examples of this type of thinking include: <br> <i>\"If I don't get that job I have applied for it means I am hopeless and no one will ever employ me\" <br> \"If I get frustrated with the children, it means I am a bad parent.\"</i>",
+      "tip": "Look for evidence that counters those thoughts.<br>For example, \"I know for most people they have to apply for a number of jobs before they get one\", \"I do lots of great things with the kids, just because I get frustrated at times like all parents, this doesn't make me a bad parent\"."
+    },
+    {
+      "id": 2,
+      "text": "Catastrophising or Fortune telling",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This involves jumping to a negative conclusion, without really knowing the facts. These types of thoughts can work like a snowball that gets larger as it rolls down a slope. These thoughts can have their own momentum, and like the snowball the imagined negative impact can grow. Not surprisingly these types of thoughts are also linked to feelings of worry and anxiety. Feelings of depression are also associated with this thinking style negative conclusion. <br> Example...<i>\"my partner seemed short with me this morning....they are upset with me....they don't love me anymore......\"</i>",
+      "tip": "Think more broadly about other things that might have influenced this situation. And ask yourself, \"How do I really know this\"? <br>For example, I know my partner has an important meeting this morning that they are worried about, that is probably why they seem distracted today."
+    },
+    {
+      "id": 3,
+      "text": "Mind Reading",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This refers to the assumption that you know what other people are thinking. This type of thinking can also be associated with feelings of anxiety, particularly in social situations.<br>Example...<i>\"oh I bet they think I am really stupid for asking that question\" </i>",
+      "tip": "Ask yourself, where is the evidence for thinking this?<br>How can I possibly know what they are thinking. What else could they be thinking?<br>For example, I have no idea what they were thinking really, maybe \"when's lunch?\" Glad I was able to get my point clarified."
+    },
+    {
+      "id": 4,
+      "text": "Overgeneralising",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of thinking proposes that a global negative conclusion will always occur, based on a previous unpleasant experiences. These thoughts state that things will be like this 'always' <br> For example, <i>\"I didn't do well in high school years ago, I will not do well in this training course\".</i>",
+      "tip": "Try and ground your thoughts a little to the specifics, to this point in time, right now. Ask yourself, how can I know this will be so?<br>For example: High school was 10 years ago, this is a course I have chosen and am interested in that is a big difference."
+    },
+    {
+      "id": 5,
+      "text": "Mental Filter (being selective)",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "A mental filter, \"strains\" out any positive elements and means that your focus in only on the negative aspects. <br> For example, despite receiving lots of positive comments from friends about a room you have re-decorated, the negative comment of one friend is what you focus on more.",
+      "tip": "Remember that one negative doesn't make everything so. Look for the positive elements or comments that you might have filtered out.<br>For example, Five of my friends like what I have done, and I was pleased with it too. Just because it is not to one person's taste doesn't make it terrible."
+    },
+    {
+      "id": 6,
+      "text": "Ignoring or discounting positives",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of thinking ignores or disregards any positive details<br>For example, a positive comment from a friend might be discounted by thinking <i>\"They don't really mean that, they are just trying to be nice\"</i>",
+      "tip": "Look for alternatives to that thought, ask yourself is it logical?<br>For example, \"well they said they liked my performance, they could have just said nothing if they didn't like it\"."
+    },
+    {
+      "id": 7,
+      "text": "Emotional reasoning (making feelings facts)",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of thinking involves drawing a negative conclusion based on feelings. While feelings are important, they are not a statement of fact. <br>For example. A person who feels sad and rejected because their friend is late, thinks they are not coming, they don't really like me. Other examples include, \"I feel guilty, so I must be guilty\".",
+      "tip": "Ask yourself, \"where is the evidence for this? And what could be some different alternatives to the conclusion you are drawing.\"<br>For example: There could be many reasons, (e.g. traffic problems) for the friend being late. I feel guilty about not being able to work at the moment, I need to remind myself that when I am unwell, some things need to go on hold until I am better."
+    },
+    {
+      "id": 8,
+      "text": "Personalisation",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "In this type of thinking you either take all the blame for things that go wrong yourself, or blame others for these events. By blaming yourself or others entirely it means that you tend not to look for other factors that might have influenced how things have gone. <br>For example: <i>\"It is my fault the project didn't work out as planned\" \"It is his fault the relationship didn't work out\"</i>",
+      "tip": "Look at other contributing factors besides yourself or the other person. Usually when things do not go as hoped there is not just one factor involved, so try and assess where your or the other persons responsibilities lie, and where they stop. For example: \"While the design elements were my responsibility, the downturn in the market and cash flow caught the whole team by surprise\". \"I guess there were things both of us did which didn't help the relationship. Also living so far from each other and both of us with other family and work commitments didn't help either\". "
+    },
+    {
+      "id": 9,
+      "text": "Labelling",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This type of unhelpful thinking involves giving either yourself or someone else a label (usually a critical one). These global negative labels mean that you will not see any other qualities and can also provoke feelings of anger. <br> For example: <i>\"I am a loser\"; \"They are hopeless\"</i>",
+      "tip": "Step back from the label you have given yourself or the other person and ask yourself, what more positive things can I notice?<br>For example..\" I am not happy with my work on the presentation, but that doesn't make me a looser. I am generally good at my work, a good cook and a nice person\". \"They struggled with the job I asked them to do, but they are able to work on less complicated tasks ok\". "
+    },
+    {
+      "id": 10,
+      "text": "Shoulds, musts or have to's",
+      "type": "checkbox ",
+      "validation": "",
+      "help": "",
+      "info": "This style of thinking dictates how things 'should' or 'must be' in a very rigid way that is full of pressure and expectations. <br>For example: <i>\"I should have done better\", \"I must not make a mistake\", \"I have to do well\".</i>",
+      "tip": "Trying to look at things in a less rigid way, and use words like, \"it would be nice if\", \"I would like to...\" \"I hope to...\" This way expectations are not set unrealistically. For example, \"I would have liked to have done better\", \"It would be nice if I didn't make a mistake\", \"I hope to do well\"."
+    },
+    {
+      "id": 11,
+      "text": "Other",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }
+  ]
+}]

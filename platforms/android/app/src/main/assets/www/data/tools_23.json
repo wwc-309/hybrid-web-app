@@ -1,0 +1,116 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "SMART short term goal",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 2,
+      "text": "Is it specific?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Is it measurable?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Is it achievable?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Is it realistic?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Does it have a timeframe?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "What steps will you need to achieve this goal?",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "Indicate a flexible time frame for each step",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 8,
+      "text": "Do I need to problem solve around any of the steps?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "If so you may want to create a new Problem Solving entry",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How did it go?",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }
+  ]
+}]

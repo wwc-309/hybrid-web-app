@@ -1,0 +1,132 @@
+[{
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+        "id": 1,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 2,
+        "text": "Review",
+        "type": "selection",
+        "validation": "",
+        "help": "",
+        "info": "Ask yourself: \"Do I have any prodromes or early symptoms of elevated mood?\" \"What are they?\" Information from your personal monitoring and/or the assistance of your service provider or support network can help here",
+        "tip": "",
+        "options": [
+          "Hard to sit still",
+          "Doing more than usual",
+          "Third Choice",
+          "Taking on more projects and plans",
+          "Increase in socializing and going out",
+          "Doing pleasurable things excessively eg shopping sprees, gambling",
+          "Acting on impulses",
+          "Talking more than usual",
+          "Unable to sleep",
+          "Energetic and don't get tired",
+          "Loss of appetite",
+          "Irritable and edgy",
+          "Intolerant",
+          "Anxious",
+          "Restless",
+          "Racing thoughts",
+          "Hard to focus on just one thing",
+          "Easily distracted"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Reflect - How you are responding to the prodromes?",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "How do I see what I am doing in terms of good in the long term, or problematic and harmful?",
+    "questions": [{
+        "id": 1,
+        "text": "Benefit - Good Effect (Pro health, good in the long term):",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 2,
+        "text": "Cost - Bad Effect (More problems caused, harmful):",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 3,
+        "text": "Does it need Problem Solving?",
+        "type": "radio",
+        "validation": "",
+        "help": "If so you may want to create a new Problem Solving entry",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Does it need a Personal Goal?",
+        "type": "radio",
+        "validation": "",
+        "help": "If so you may want to create a new Personal Goal entry",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Does this need a relapse prevention plan?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Unhelpful things I would like to change:",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  }
+]

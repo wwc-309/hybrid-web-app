@@ -1,0 +1,119 @@
+[{
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+        "id": 1,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 2,
+        "text": "Review - Identify any current difficulties and/or issues with your medication",
+        "type": "selection",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Experiencing any possible side effects",
+          "Taking them reminds me of my illness",
+          "Unsure if they are working",
+          "Forgetting to take them",
+          "Only taking them sometimes",
+          "Taking more than prescribed",
+          "Just don't like taking them"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Review - Other",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "List any other current difficulties/issues not included in the list above",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 4,
+        "text": "Reflect - How you are responding to the medication?",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "How do I see what I am doing in terms of good in the long term, or problematic and harmful?",
+    "questions": [{
+        "id": 1,
+        "text": "Benefit - Good Effect (Pro health, good in the long term)",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 2,
+        "text": "Cost - Bad Effect (More problems caused, harmful)",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 3,
+        "text": "Does it need problem solving?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "If so you may want to create a new Problem Solving entry�",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Does it need a personal goal?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "If so you may want to create a new Problem Goals entry�",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Things I would like to work on",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  }
+]

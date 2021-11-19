@@ -1,0 +1,24 @@
+<div class="card">
+  <header class="card-header">
+    <p class="card-header-title">
+      Settings
+    </p>
+    <a class="card-header-icon" aria-label="Settings">
+      <span class="icon">
+        <i class="fa fa-cog"></i>
+      </span>
+    </a>
+  </header>
+  <div class="card-content">
+    <div class="content">
+        <div class="field">
+          <input class="is-checkradio is-rtl" id="enable-logging" type="checkbox">
+          <label for="enable-logging">Enable Logging? :&nbsp;</label>
+        </div>
+    </div>
+  </div>
+  <footer class="card-footer">
+    <a class="card-footer-item button" id="settings-save">Save</a>
+    <a class="card-footer-item button" id="settings-close">Close</a>
+  </footer>
+</div>

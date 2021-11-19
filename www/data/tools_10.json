@@ -1,0 +1,769 @@
+[{
+    "section": 1,
+    "sectionTitle": "Thoughts",
+    "questions": [{
+        "id": 1,
+        "text": "Hard to focus thoughts on just one thing",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Thoughts seem clearer and sharper than usual",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Thoughts are racing",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Thoughts leap from idea to idea",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Creative thoughts and ideas",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Thoughts are easily distracted",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Make connections between unrelated thoughts",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "See yourself in a very positive way, that you are wonderful, attractive gifted",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Not able to think about the risks and consequences in things you do",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Thoughts focus on large goals, big plans and ideas",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Thoughts are confident",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Don't think you need sleep",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Thoughts become more religious",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Suicidal thoughts",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Delusions having a belief that is not true such as believing your have special powers or abilities, or that you are famous",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Hallucinations hearing or seeing things that are not really there",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Feelings",
+    "questions": [{
+        "id": 1,
+        "text": "Happier and more cheerful than usual",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Energetic and don't tire",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Optimistic about everything",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Confident",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Grandiose",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Creative and artistic",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Feel highly driven and motivated",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Irritable and edgy",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Intolerant",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Anxious",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Angry and short tempered",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Restless",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Agitated",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Increase in sexual feelings and desire",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Feel on top of the world - to the point of elation and euphoria",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Behaviour",
+    "questions": [{
+        "id": 1,
+        "text": "Laughing and joking more with others",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Hard to sit still",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Do more things than usual",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Taking on projects and plans",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Move onto a new project before finishing what has already been started",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Continue to work on things without resting",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Increase in socializing and going out",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Over involvement in things you find pleasurable such as shopping sprees, gambling",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Act on impulses",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "More sexually active",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Engage in risk taking, such as driving fast, sexually promiscuous",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Talk more than usual",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Speech is faster and louder",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Unable to sleep",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Loss of appetite",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Always rushing and in a hurry",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Able to complete usual home or work responsibilities",
+        "type": "checkbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+#Tue Feb 06 14:35:26 AEDT 2018
+base.0=D\:\\Sites\\bipolarApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\Sites\\bipolarApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

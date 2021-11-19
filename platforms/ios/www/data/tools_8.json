@@ -1,0 +1,709 @@
+[{
+    "section": 1,
+    "sectionTitle": "Thoughts",
+    "questions": [{
+        "id": 1,
+        "text": "Thoughts seem in a fog - it is hard to concentrate or think",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Problems with remembering things",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Hesitant and indecisive - cannot make decisions about things",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Lots of worrying thoughts",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Ruminate about things - the same thoughts just go round and round",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Cannot shake worrying or anxious thoughts",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Think things are uninteresting or pointless",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Lots of thoughts about how difficult and hard things are",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Thoughts about past problems and seeing things as failures",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Thoughts focus on how things will never get better.",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Think no ones cares about me",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Critical of others",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Critical of yourself",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Negative thoughts about yourself, that you are worthless, unattractive, an idiot, no good.",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Thoughts about death and hurting yourself",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Think that others would be better off without you",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Lots of thoughts about physical ailments",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Delusions: having a belief that is not true, for example believing that others are out to get you.",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Hallucinations: hearing or seeing things that are not really there.",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "Feelings",
+    "questions": [{
+        "id": 1,
+        "text": "Feel numb",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Feel sad even though nothing bad may have happened",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Feel lonely and isolated",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Feel everything is hopeless",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Feel that you are worthless or not good enough in anything you do",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Feeling guilty without good reason",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Feeling irritable or angry",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Feeling anxious and worried",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Feelings are not improved even if something good happens",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Feelings of enjoyment that you used to have when doing things are no longer there",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Feel disconnected and have no interest in others",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Feel lethargic with no energy or motivation",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Feel restless",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  },
+  {
+    "section": 3,
+    "sectionTitle": "Behaviours",
+    "questions": [{
+        "id": 1,
+        "text": "Tearful and crying",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Don't continue on with usual daily activities or interests",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Takes longer and a lot of effort to do things",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Cannot finish things",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Unable to sit still",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Hard to get going",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Avoid going out and contact with others",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Have disagreements with others",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Loss of interest in sex",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Taking actions which put you in danger such as planning suicide",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Difficulty with sleeping. Either hard to get to sleep, or wake very early. Or you are sleeping all the time.",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Increase or decrease in appetite, which results in overeating or lack of eating and weight loss",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Present during an episode of illness",
+          "Usual for me",
+          "A warning sign of illness",
+          "Noticed by others as a sign of illness eg doctor, family, friends etc"
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      }
+    ]
+  }
+]

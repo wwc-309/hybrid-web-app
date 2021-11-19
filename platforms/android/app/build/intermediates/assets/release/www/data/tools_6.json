@@ -1,0 +1,39 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+    "id": 1,
+    "text": "Add/Edit medication",
+    "type": "selection",
+    "validation": "",
+    "help": "",
+    "info": "",
+    "tip": "",
+    "options": [
+      "Amitriptyline",
+      "Amisulpride",
+      "Carbamezepine",
+      "Citalopram",
+      "Clozapine",
+      "Desipramine",
+      "Dotheipin",
+      "Escitalopram",
+      "Fluxetine",
+      "Gabapentin",
+      "Imipramine",
+      "Lamotrigine",
+      "Lithium",
+      "Lorazepam",
+      "Olanzapine",
+      "Paroxetine",
+      "Phenelzine",
+      "Quetiapine",
+      "Resperidone",
+      "Sodium Valproate",
+      "Sertraline",
+      "Topiramate",
+      "Tranylcypromine",
+      "Others"
+    ]
+  }]
+}]

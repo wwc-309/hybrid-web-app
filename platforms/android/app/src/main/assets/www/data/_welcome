@@ -1,0 +1,74 @@
+<div class="content">
+
+    <figure>
+      <img src="./img/featured.jpg" alt="">
+    </figure>
+    <h1>Welcome to MoodSwings</h1>    
+    <p>
+      This site is an online self-help tool for people with bipolar disorder.
+      Material used in this website is based on an effective face-to-face group program found to be
+      successful in reducing episodes of illness. First launched in 2007, this website is now being
+      evaluated as part of a study conducted through the University of Melbourne and the United States
+      Department of Veterans Affairs, with support from the National Institutes of Health.
+    </p>
+
+    <p>This program is a collaboration of:</p>
+    <div style="text-align:center;">
+    <img src="./img/barwon_health_logo.jpg" alt="barwon_health_logo" style="height: 3rem;">
+    <img src="./img/beyond_blue_logo.jpg" alt="beyond_blue_logo" style="height: 3rem;">
+    <img src="./img/unimelb_logo.png" alt="unimelb_logo" style="height: 3rem;">
+    <img src="./img/deakin.jpg" alt="deakin" style="height: 3rem;">
+    <img src="./img/ian_parker_logo.jpg" alt="ian_parker_logo" style="height: 3rem;">
+    <img src="./img/aus_rotary_health.jpg" alt="aus_rotary_health" style="height: 3rem;">
+    <img src="./img/VA.jpg" alt="VA" style="height: 3rem;">
+    <img src="./img/stanford_uni_logo.jpg" alt="stanford_uni_logo" style="height: 3rem;">
+    <img src="./img/nih_logo.jpg" alt="nih_logo" style="height: 3rem;">
+    <div>
+    <!-- <div class="columns is-gapless is-multiline is-centered">
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/barwon_health_logo.jpg" alt="barwon_health_logo" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/beyond_blue_logo.jpg" alt="beyond_blue_logo" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/unimelb_logo.png" alt="unimelb_logo" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/deakin.jpg" alt="deakin" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/ian_parker_logo.jpg" alt="ian_parker_logo" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/aus_rotary_health.jpg" alt="aus_rotary_health" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/VA.jpg" alt="VA" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/stanford_uni_logo.jpg" alt="stanford_uni_logo" style="height: 3rem;">
+        </figure>
+      </div>
+      <div class="column is-narrow">
+        <figure>
+          <img src="./img/nih_logo.jpg" alt="nih_logo" style="height: 3rem;">
+        </figure>
+      </div>
+    </div> -->
+</div>

@@ -1,0 +1,142 @@
+[{
+    "section": 1,
+    "sectionTitle": "",
+    "questions": [{
+        "id": 1,
+        "text": "Date",
+        "type": "date",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": ""
+      },
+      {
+        "id": 2,
+        "text": "Review",
+        "type": "selection",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Less interested in doing things",
+          "Finding it hard to get going and do usual things",
+          "Not joying things as much",
+          "Avoiding contact with others",
+          "Unable to sit still",
+          "Tearful and crying",
+          "Feeling sad",
+          "Feeling irritable or angry",
+          "Feeling lethargic, no energy or motivation",
+          "Restless",
+          "Sleeping more than usual",
+          "Having difficulties sleeping such as waking early",
+          "Worried or anxious",
+          "Hesitant or indecisive",
+          "Having negative thoughts about myself",
+          "Critical of myself or others",
+          "Think others would be better off without me"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Review Other",
+        "type": "textbox",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "min": "",
+        "max": ""
+      },
+      {
+        "id": 4,
+        "text": "Reflect",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "sectionTitle": "How do I see what I am doing in terms of good in the long term, or problematic and harmful?",
+    "questions": [{
+        "id": 1,
+        "text": "Benefit",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 2,
+        "text": "Cost",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      },
+      {
+        "id": 3,
+        "text": "Does it need Problem Solving?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "If so you may want to create a new Problem Solving entry",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Does it need a Personal Goal?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "If so you may want to create a new Personal Goals entry",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Does this need a relapse prevention plan?",
+        "type": "radio",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Unhelpful things I would like to change:",
+        "type": "textarea",
+        "validation": "",
+        "help": "",
+        "info": "",
+        "tip": "",
+        "rows": "",
+        "cols": ""
+      }
+    ]
+  }
+]

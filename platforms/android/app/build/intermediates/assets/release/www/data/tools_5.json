@@ -1,0 +1,38 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Trigger",
+      "type": "checkbox",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Positive life events",
+        "Negative life events",
+        "Disruption to biological clock",
+        "Being over active",
+        "Being under active",
+        "Physical illness",
+        "Family conflict",
+        "Stopping medication",
+        "Recreational drugs",
+        "Stigma",
+        "Thinking styles"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Other",
+      "type": "textbox",
+      "validation": "",
+      "help": "Enter any other triggers not listed above.",
+      "info": "Enter any other triggers not listed above.",
+      "tip": "",
+      "min": "",
+      "max": ""
+    }
+  ]
+}]

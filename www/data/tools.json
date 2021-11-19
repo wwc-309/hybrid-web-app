@@ -1,0 +1,424 @@
+[{
+    "level": 0,
+    "id": 1,
+    "text": "My Profile",
+    "content": [
+      "This section contains a number of activities designed to help you build up a profile both of yourself and of your experience of bipolar disorder. This can be helpful in becoming aware of how the illness is for you, and developing helpful strategies to manage and reduce relapse.",
+      "As you progress through the modules you will gain access to more of these activities."
+    ],
+    "children": [{
+        "level": 1,
+        "id": 2,
+        "text": "About Me",
+        "content": [
+          "The Pleasurable Activities and Strengths and Values profile tools allow you to reflect on some of the positive aspects of yourself."
+        ],
+        "children": [{
+            "level": 2,
+            "id": 3,
+            "text": "Pleasurable Activities Profile",
+            "content": [
+              "This tool is about your favourite activities.  Often we forget about those things we most enjoy.  You can use the profile in this section to help remind you of these things.  Your personal pleasurable activities profile helps you to reflect on your favourite hobbies and things you enjoy doing",
+              "Check off those things on the list that you currently enjoy doing, or are things that you would like to try. This list is particularly useful in helping setting personal goals if you are finding your life is too empty. It is also good to refer back to when you are experiencing warning signs of depression. A word of caution: take care that you are not doing too many of these activities if you are experiencing an elevated mood."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below",
+            "steps": 7,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_3.json"
+          },
+          {
+            "level": 2,
+            "id": 4,
+            "text": "Strengths and Values Profile",
+            "content": [
+              "This tool is about your personal strengths.  Often we lose sight of our positive qualities and values.  You can use the profiles in this section to help remind you of these qualities.  Your personal strengths profile helps you to reflect on your values, positive qualities, likes and dislikes"
+            ],
+            "info": "This form will start with your previous entry. Any changes you make to this form will override previous changes.",
+            "steps": 1,
+            "prefill": true,
+            "history": false,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_4.json"
+          },
+          {
+            "level": 2,
+            "id": 5,
+            "text": "Triggers Profile",
+            "content": [
+              "Being aware of your own personal triggers of illness can help you better manage bipolar disorder. You may be aware of these already and you can record these on your triggers profile below. If you are not sure what stresses are triggers for you, strategies such as mood monitoring covered in this module can help.",
+              "This list can be a useful reminder of those things that you need to be cautious of in order to keep well."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_5.json"
+          },
+          {
+            "level": 2,
+            "id": 6,
+            "text": "Medication Profile",
+            "content": [
+              "We have listed only the generic names of medication here as the trade names used by pharmaceutical companies varies considerably. You can check the trade names in the module section <a> href=\"https://www.moodswings.net.au/modules/medication/medication-names/\">&nbsp;Medication Names.&nbsp;</a> Please enter your medications one at a time. The items you enter here will appear in the medication monitor in the mood monitor section which allows you to monitor your medication more closely."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_6.json"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "id": 7,
+        "text": "Illness Profile",
+        "children": [{
+            "level": 2,
+            "id": 8,
+            "text": "Depression Illness Profile",
+            "content": [
+              "Knowing your warning signs and early symptoms means you can put your reducing relapse plan into action early. This profile contains a list of symptoms for you to check off if you experience them."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 3,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_8.json"
+          },
+          {
+            "level": 2,
+            "id": 9,
+            "text": "Depression Unhelpful Thinking Profile",
+            "content": [
+              "From time to time we all use some kind of unhelpful thoughts. But these thoughts are more common and are stronger when your mood is going down and you are becoming depressed, or are in a depressive episode.",
+              "On the form below, please select the unhelpful thoughts that are familiar to you. Below each unhelpful thought, there are some tips to help counter these thoughts if you experience them. This tool is designed to help you identify when you are experiencing these thoughts, so you can work to counter them before they progress any further."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_9.json"
+          },
+          {
+            "level": 2,
+            "id": 10,
+            "text": "Elevated Mood Illness Profile",
+            "content": [
+              "Knowing your warning signs and early symptoms means you can put your reducing relapse plan into action early. This profile contains a list of symptoms for you to check off if you experience them."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 3,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_10.json"
+          },
+          {
+            "level": 2,
+            "id": 11,
+            "text": "Elevated Mood Unhelpful Thinking Profile",
+            "content": [
+              "From time to time we all use some kind of unhelpful thoughts. But these thoughts are more common and are stronger when your mood is going up and you are becoming elevated, or are in an episode of illness.",
+              "On the form below, please select the unhelpful thoughts that are familiar to you. Below each unhelpful thought, there are some tips to help counter these thoughts if you experience them. This tool is designed to help you identify when you are experiencing these thoughts, so you can work to counter them before they progress any further."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_11.json"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "id": 12,
+        "text": "Reducing Relapse Plans",
+        "children": [{
+            "level": 2,
+            "id": 13,
+            "text": "Reducing Depression Relapse Plan",
+            "content": [
+              "*NOTE: Some areas of this form have been blocked out for your security and privacy. You will need to print off this plan to fill out these sections"
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": true,
+            "chart": false,
+            "file": "tools_13.json"
+          },
+          {
+            "level": 2,
+            "id": 14,
+            "text": "Suicide Risk Prevention Contract",
+            "content": [
+              "*NOTE: Some areas of this form have been blocked out for your security and privacy. You will need to print off this plan to fill out these sections."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 4,
+            "prefill": false,
+            "history": true,
+            "encrypt": true,
+            "chart": false,
+            "file": "tools_14.json"
+          },
+          {
+            "level": 2,
+            "id": 15,
+            "text": "Reducing Elevated Mood Relapse Plan",
+            "content": [
+              "*NOTE: Some areas of this form have been blocked out for your security and privacy. You will need to print off this plan to fill out these sections"
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 2,
+            "prefill": false,
+            "history": true,
+            "encrypt": true,
+            "chart": false,
+            "file": "tools_15.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 0,
+    "id": 16,
+    "text": "My Interactive Tools",
+    "content": [
+      "This section contains a number of tools and strategies which have been found to be useful in managing bipolar disorder. These tools are specifically designed to help you gain more control over your illness and to reduce relapse.",
+      "As you work through the modules you will be referred to the specific tools and guidelines on how to use them."
+    ],
+    "children": [{
+        "level": 1,
+        "id": 17,
+        "text": "Monitoring Mood",
+        "content": [
+          "The Mood Monitor  and Medication Monitor tools allow you to keep track of the patterns in your moods as well as your medication intake."
+        ],
+        "children": [{
+            "level": 2,
+            "id": 18,
+            "text": "Mood Monitor",
+            "content": [
+              "Use the form below to add an entry to the chart."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": true,
+            "file": "tools_18.json"
+          },
+          {
+            "level": 2,
+            "id": 19,
+            "text": "Medication Monitor",
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_19.json"
+          },
+          {
+            "level": 2,
+            "id": 20,
+            "text": "Life Chart",
+            "content": [
+              "A life chart records periods of illness. By recalling what was happening in your life around times of illness you may be able to identify things that trigger an episode.  Even if you cannot identify a specific trigger or event, you might be able to see a pattern, e.g. associated with a particular time of year.",
+              "It can be distressing to reflect back on times that you were unwell, reminding yourself that you are making a life chart to gain more control over the illness can help with these feelings.  By learning more about your experiences of bipolar disorder this will enable you to intervene as early as possible to minimize any future episodes."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": true,
+            "file": "tools_20.json"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "id": 21,
+        "text": "Problem Solving and Goal Setting",
+        "children": [{
+            "level": 2,
+            "id": 22,
+            "text": "Problem Solving",
+            "content": [
+              "Life is full of decisions, what to wear, what to have for lunch, do I feel like a cup of tea now?  These small decisions are usually easy to make, and are often made without too much thought.  More complex decisions, which might be related to a problem, or a more significant issue, such as changing jobs, or returning to study, can be more difficult.  These types of decisions can lead to feelings of stress, and anxiety and have an impact on well-being.",
+              "The problem solving tool provides you with some structured steps that can be helpful in making decisions."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_22.json"
+          },
+          {
+            "level": 2,
+            "id": 23,
+            "text": "Goal Setting",
+            "content": [
+              "The goal setting tool helps you set personal goals that are clear and attainable."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_23.json"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "id": 24,
+        "text": "Weighing Things Up",
+        "content": [
+          "The module reflection tools allow you to work through some of the techniques covered in each module. The Projects and Ideas tool helps you to weigh up the pros and  cons of any new ideas or planned projects."
+        ],
+        "children": [{
+            "level": 2,
+            "id": 25,
+            "text": "Stressors and Triggers Module Reflection",
+            "content": [
+              "This tool helps you to reflect on the role of stress in your life, as well as other triggers for bipolar illness."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 2,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_25.json"
+          },
+          {
+            "level": 2,
+            "id": 26,
+            "text": "Medication Module Reflection",
+            "content": [
+              "This tool helps you to reflect on the role of medications in your life, the positives and negatives of taking medications, and whether or not you need to develop a personal goal to help manage your medications.",
+              "Select an issue under �review� then comment on how it affects your life in the �reflect� box. You can then determine if you need to develop a problem solving strategy and/or personal goal to deal with this issue."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 2,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_26.json"
+          },
+          {
+            "level": 2,
+            "id": 27,
+            "text": "Depression Module Reflection",
+            "content": [
+              "This tool helps you to reflect on your experiences with depression including symptoms you may be experiencing. This tool may also help you to decide whether or not you need to develop a personal goal, problem solving strategy and/or relapse plan to help deal with your depressed moods.",
+              "Select an issue under �review� then comment on how it affects your life in the �reflect� box. You can then determine if you need to develop a problem solving strategy, personal goal and/or relapse plan to deal with this issue"
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 2,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_27.json"
+          },
+          {
+            "level": 2,
+            "id": 28,
+            "text": "Elevated Mood Module Reflection",
+            "content": [
+              "This tool helps you to reflect on your experiences of elevated mood, including symptoms. This tool may also help you to decide whether or not you need to develop a personal goal, problem solving strategy and/or relapse plan to help manage your elevated mood.",
+              "Select an issue under �review� then comment on how it affects your life in the �reflect� box. You can then determine if you need to develop a problem solving strategy, personal goal and/or relapse plan to deal with this issue."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 2,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_28.json"
+          },
+          {
+            "level": 2,
+            "id": 29,
+            "text": "Projects and Ideas",
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_29.json"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "id": 30,
+        "text": "Thinking Strategies",
+        "children": [{
+            "level": 2,
+            "id": 31,
+            "text": "Depression Thinking Strategy",
+            "content": [
+              "Identifying unhelpful thinking associated with depressed mood changes and re-framing these thoughts to be more helpful can help in maintaining a balanced mood.",
+              "On the form below, add in an example of a time when you have experienced unhelpful thinking (past or current). This includes the situation you were in, how it made you feel, what sorts of thoughts/self talk you experienced, what behaviours resulted from this, and how much you feel you believed these unhelpful thoughts. The second section allows you to identify an alternative thought to counter this unhelpful thinking. Once you have completed the form, press the �submit� button. This form allows you to create multiple entries so you can record other examples with separate submissions.",
+              "The purpose of this strategy is to help you to explore some of your unhelpful thinking and to challenge these thoughts, to create a more realistic way of thinking."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_31.json"
+          },
+          {
+            "level": 2,
+            "id": 32,
+            "text": "Elevated Thinking Strategy",
+            "content": [
+              "Identifying unhelpful thinking associated with elevated mood changes and re-framing these thoughts to be more helpful can help in maintaining a balanced mood.",
+              "On the form below, add in an example of a time when you have experienced unhelpful thinking (past or current). This includes the situation you were in, how it made you feel, what sorts of thoughts/self talk you experienced, what behaviours resulted from this, and how much you feel you believed these unhelpful thoughts. The second section allows you to identify an alternative thought to counter this unhelpful thinking. Once you have completed the form, press the �submit� button. This form allows you to create multiple entries so you can record other examples with separate submissions.",
+              "The purpose of this strategy is to help you to explore some of your unhelpful thinking and to challenge these thoughts, to create a more realistic way of thinking."
+            ],
+            "info": "Any previous submissions of this form are shown in a table below.",
+            "steps": 1,
+            "prefill": false,
+            "history": true,
+            "encrypt": false,
+            "chart": false,
+            "file": "tools_32.json"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+
+<div class="tile is-ancestor">
+  <div class="tile is-5 is-vertical is-parent">
+    <div class="tile is-child box">
+      <h1 class="title is-5 has-text-weight-bold">User Activation</h1>
+      <!-- User activate deactivate panel -->
+        <div class="field">
+          <input class="is-checkradio is-rtl" id="user-list-option" type="checkbox">
+          <label for="user-list-option">List all Users</label>
+        </div>
+        <div class="field">
+          <div class="control">
+            <div class="select" style="width:100%">
+              <select id="user-selection" style="width:100%">
+                <!-- Options are dynamically loaded -->
+              </select>
+            </div>
+          </div>
+        </div>
+      <!-- </div> -->
+        <nav class="level is-mobile">
+          <!-- Left side -->
+          <div class="level-left">
+            <div class="level-item">
+              <button class="button is-primary" id="activate-user" disabled>Activate</button>
+            </div>
+          </div>
+
+          <!-- Right side -->
+          <div class="level-right">
+            <p class="level-item" style="margin-right: 0">
+              <button class="button is-danger" id="deactivate-user" disabled>Deactivate</button>
+            </p>
+          </div>
+        </nav>
+      <!-- END User activate deactivate panel -->
+    </div>
+    <div class="tile is-child box">
+      <h1 class="title is-5 has-text-weight-bold">Password/Secrets Reset</h1>
+      <!-- User password reset panel -->
+        <div class="field">
+          <div class="control">
+            <div class="select" style="width:100%">
+              <select id="user-select-reset" style="width:100%">
+                <!-- Options are dynamically loaded -->
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="field is-horizontal">
+          <div class="field-body">
+            <div class="field">
+              <p class="control is-expanded">
+                <input class="input" type="text" id="new-secret-1" placeholder="Secret Phrase 1" disabled>
+              </p>
+            </div>
+            <div class="field">
+              <p class="control is-expanded">
+                <input class="input" type="text" id="new-secret-2" placeholder="Secret Phrase 2" disabled>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <p class="control has-icons-left">
+            <input class="input" type="text" id="password-reset" placeholder="Password" disabled>
+            <span class="icon is-small is-left">
+              <i class="fa fa-lock"></i>
+            </span>
+          </p>
+          <label for="password-reset" class="is-valid is-danger"><span style="color:red">&#9733;</span></label>
+        </div>
+          <nav class="level is-mobile">
+            <!-- Left side -->
+            <div class="level-left">
+              <div class="level-item">
+                <button class="button is-info" id="reset-password-button" disabled>Reset Password</button>
+              </div>
+            </div>
+            <!-- Right side -->
+            <div class="level-right">
+              <p class="level-item"  style="margin-right: 0">
+                <button class="button is-warning" id="reset-secrets-button" disabled>Reset Secrets</button>
+              </p>
+            </div>
+          </nav>
+      <!-- END User password reset panel -->
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <div class="tile is-child box">
+      <h1 class="title is-5 has-text-weight-bold">User Details</h1>
+        <div class="field">
+          <label class="label">Full Name</label>
+          <div class="control">
+            <input class="input id-primary" type="text" id="user-fullname" placeholder="Fullname" readonly>
+          </div>
+        </div>
+        <div class="field is-horizontal">
+          <div class="field-body">
+            <div class="field">
+              <label class="label">Username</label>
+              <div class="control has-icons-left has-icons-right">
+                <input class="input is-success" type="text" id="user-username" placeholder="Username" readonly>
+                <span class="icon is-small is-left">
+                  <i class="fa fa-user"></i>
+                </span>
+              </div>
+            </div>
+            <div>
+              <div class="field">
+                <label class="label">Status</label>
+                <input class="is-checkradio is-block is-success" id="user-active" type="checkbox" name="user-activation" checked="checked">
+                <label for="user-active">Activated</label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Email</label>
+          <div class="control has-icons-left has-icons-right">
+            <input class="input is-info" type="email" id="user-email" placeholder="Email" readonly>
+            <span class="icon is-small is-left">
+              <i class="fa fa-envelope"></i>
+            </span>
+          </div>
+        </div>
+        <div class="field is-horizontal">
+          <div class="field-body">
+            <div class="field">
+              <label class="label">Role</label>
+              <div class="control">
+                <input class="input is-warning" type="text" id="user-role" placeholder="Role" readonly>
+              </div>
+            </div>
+            <div class="field">
+              <label class="label">Carer</label>
+              <div class="control">
+                <input class="input is-warning" type="text" id="user-carer" placeholder="Carer" readonly>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="field is-horizontal">
+          <div class="field-label is-normal">
+            <label class="label">Secrets</label>
+          </div>
+          <div class="field-body">
+            <div class="field">
+              <div class="control is-expanded">
+                <input class="input is-success" type="text" id="user-secret-1" placeholder="Phrase 1" readonly>
+              </div>
+            </div>
+            <div class="field">
+              <div class="control is-expanded">
+                <input class="input is-success" type="text" id="user-secret-2" placeholder="Phrase 2" readonly>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,84 @@
+[{
+  "section": 1,
+  "sectionTitle": "",
+  "questions": [{
+      "id": 1,
+      "text": "Problem",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 2,
+      "text": "Possible Solutions",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 3,
+      "text": "Evaluate Each Idea",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 4,
+      "text": "The Best Solution is",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 5,
+      "text": "Plan",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    },
+    {
+      "id": 6,
+      "text": "Did your plan work?",
+      "type": "radio",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Regardless of how your plan worked, how can you reward yourself for tackling the problem you identified?",
+      "type": "textarea",
+      "validation": "",
+      "help": "",
+      "info": "",
+      "tip": "",
+      "rows": "",
+      "cols": ""
+    }
+  ]
+}]
